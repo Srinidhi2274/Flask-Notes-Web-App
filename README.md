@@ -44,7 +44,7 @@ A simple Flask web application that allows users to register, log in, and manage
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/flask-notes-app.git
+   git clone https://github.com/Srinidhi2274/Flask-Notes-Web-App.git
    cd flask-notes-app
    ```
 
@@ -82,15 +82,6 @@ A simple Flask web application that allows users to register, log in, and manage
 - Jinja2 (templating)
 - SQLite (via SQLAlchemy)
 - HTML/CSS/JavaScript
-
----
-
-## 📌 Future Improvements
-
-- Add note editing & deletion
-- Use hashed passwords for better security
-- Add profile management
-- Deploy to a cloud provider (Heroku, Render, etc.)
 
 ---
 
